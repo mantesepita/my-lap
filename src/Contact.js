@@ -1,6 +1,6 @@
 import react from "react";
 function Contact(){
-    return <h1> Contact me </h1>
+    return <h1>  my Contact me </h1>
         
     
 }
