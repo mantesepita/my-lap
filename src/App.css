@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.News{
+  background-color: #61dafb;
+  size: 12px;
+  margin-left: 200PX;
+  margin-right: 200PX;
+  border-radius: 15px;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  
+  border-radius: 8px;
+
+
+}
